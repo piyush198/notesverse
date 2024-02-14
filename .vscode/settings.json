@@ -1,0 +1,14 @@
+{
+    "git.ignoreLimitWarning": true,
+    "editor.quickSuggestions": {
+        "strings": true
+    },
+    "tailwindCSS.includeLanguages": {
+        "javascript": "javascript",
+        "javascriptreact": "javascriptreact",
+        "typescript": "typescript",
+        "typescriptreact": "typescriptreact"
+    },
+    "editor.inlineSuggest.enabled": true,
+    "editor.tabSize": 4
+}
