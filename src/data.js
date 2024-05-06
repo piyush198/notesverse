@@ -4,90 +4,90 @@ export const data = {
             Applied_Mathematics: [
                 {
                     name: "Unit 1",
-                    url: "http://dsfdsf",
+                    url: "https://drive.google.com/file/d/1DCeYx9hfl4qjy33CdudSbWMxjTJGnv-f/view?usp=sharing",
                 },
                 {
                     name: "Unit 2",
-                    url: "http://dsfdsf",
+                    url: "https://drive.google.com/file/d/1DCeYx9hfl4qjy33CdudSbWMxjTJGnv-f/view?usp=sharing",
                 },
                 {
                     name: "Unit 3",
-                    url: "http://dsfdsf",
+                    url: "https://drive.google.com/file/d/1DCeYx9hfl4qjy33CdudSbWMxjTJGnv-f/view?usp=sharing",
                 },
                 {
                     name: "Unit 4",
-                    url: "http://dsfdsf",
+                    url: "https://drive.google.com/file/d/1DCeYx9hfl4qjy33CdudSbWMxjTJGnv-f/view?usp=sharing",
                 },
             ],
 
             Applied_Physics_1: [
                 {
                     name: "Unit 1",
-                    url: "http://dsfdsf",
+                    url: "https://drive.google.com/file/d/1DCeYx9hfl4qjy33CdudSbWMxjTJGnv-f/view?usp=sharing",
                 },
                 {
                     name: "Unit 2",
-                    url: "http://dsfdsf",
+                    url: "https://drive.google.com/file/d/1DCeYx9hfl4qjy33CdudSbWMxjTJGnv-f/view?usp=sharing",
                 },
                 {
                     name: "Unit 3",
-                    url: "http://dsfdsf",
+                    url: "https://drive.google.com/file/d/1DCeYx9hfl4qjy33CdudSbWMxjTJGnv-f/view?usp=sharing",
                 },
             ],
             Applied_Chemistry_1: [
                 {
                     name: "Unit 1",
-                    url: "http://dsfdsf",
+                    url: "https://drive.google.com/file/d/1DCeYx9hfl4qjy33CdudSbWMxjTJGnv-f/view?usp=sharing",
                 },
                 {
                     name: "Unit 2",
-                    url: "http://dsfdsf",
+                    url: "https://drive.google.com/file/d/1DCeYx9hfl4qjy33CdudSbWMxjTJGnv-f/view?usp=sharing",
                 },
                 {
                     name: "Unit 3",
-                    url: "http://dsfdsf",
+                    url: "https://drive.google.com/file/d/1DCeYx9hfl4qjy33CdudSbWMxjTJGnv-f/view?usp=sharing",
                 },
             ],
             Manufacturing_Process: [
                 {
                     name: "Unit 1",
-                    url: "http://dsfdsf",
+                    url: "https://drive.google.com/file/d/1DCeYx9hfl4qjy33CdudSbWMxjTJGnv-f/view?usp=sharing",
                 },
                 {
                     name: "Unit 2",
-                    url: "http://dsfdsf",
+                    url: "https://drive.google.com/file/d/1DCeYx9hfl4qjy33CdudSbWMxjTJGnv-f/view?usp=sharing",
                 },
                 {
                     name: "Unit 3",
-                    url: "http://dsfdsf",
+                    url: "https://drive.google.com/file/d/1DCeYx9hfl4qjy33CdudSbWMxjTJGnv-f/view?usp=sharing",
                 },
             ],
             Introduction_To_AutoCAD: [
                 {
                     name: "Unit 1",
-                    url: "http://dsfdsf",
+                    url: "https://drive.google.com/file/d/1DCeYx9hfl4qjy33CdudSbWMxjTJGnv-f/view?usp=sharing",
                 },
                 {
                     name: "Unit 2",
-                    url: "http://dsfdsf",
+                    url: "https://drive.google.com/file/d/1DCeYx9hfl4qjy33CdudSbWMxjTJGnv-f/view?usp=sharing",
                 },
                 {
                     name: "Unit 3",
-                    url: "http://dsfdsf",
+                    url: "https://drive.google.com/file/d/1DCeYx9hfl4qjy33CdudSbWMxjTJGnv-f/view?usp=sharing",
                 },
             ],
             Communication_Skills: [
                 {
                     name: "Unit 1",
-                    url: "http://dsfdsf",
+                    url: "https://drive.google.com/file/d/1DCeYx9hfl4qjy33CdudSbWMxjTJGnv-f/view?usp=sharing",
                 },
                 {
                     name: "Unit 2",
-                    url: "http://dsfdsf",
+                    url: "https://drive.google.com/file/d/1DCeYx9hfl4qjy33CdudSbWMxjTJGnv-f/view?usp=sharing",
                 },
                 {
                     name: "Unit 3",
-                    url: "http://dsfdsf",
+                    url: "https://drive.google.com/file/d/1DCeYx9hfl4qjy33CdudSbWMxjTJGnv-f/view?usp=sharing",
                 },
             ],
         },
@@ -95,48 +95,48 @@ export const data = {
             Applied_Mathematics_2: [
                 {
                     name: "Unit 1",
-                    url: "http://dsfdsf",
+                    url: "https://drive.google.com/file/d/1DCeYx9hfl4qjy33CdudSbWMxjTJGnv-f/view?usp=sharing",
                 },
                 {
                     name: "Unit 2",
-                    url: "http://dsfdsf",
+                    url: "https://drive.google.com/file/d/1DCeYx9hfl4qjy33CdudSbWMxjTJGnv-f/view?usp=sharing",
                 },
                 {
                     name: "Unit 3",
-                    url: "http://dsfdsf",
+                    url: "https://drive.google.com/file/d/1DCeYx9hfl4qjy33CdudSbWMxjTJGnv-f/view?usp=sharing",
                 },
                 {
                     name: "Unit 4",
-                    url: "http://dsfdsf",
+                    url: "https://drive.google.com/file/d/1DCeYx9hfl4qjy33CdudSbWMxjTJGnv-f/view?usp=sharing",
                 },
             ],
 
             Applied_Physics_2: [
                 {
                     name: "Unit 1",
-                    url: "http://dsfdsf",
+                    url: "https://drive.google.com/file/d/1DCeYx9hfl4qjy33CdudSbWMxjTJGnv-f/view?usp=sharing",
                 },
                 {
                     name: "Unit 2",
-                    url: "http://dsfdsf",
+                    url: "https://drive.google.com/file/d/1DCeYx9hfl4qjy33CdudSbWMxjTJGnv-f/view?usp=sharing",
                 },
                 {
                     name: "Unit 3",
-                    url: "http://dsfdsf",
+                    url: "https://drive.google.com/file/d/1DCeYx9hfl4qjy33CdudSbWMxjTJGnv-f/view?usp=sharing",
                 },
             ],
             Applied_Chemistry_2: [
                 {
                     name: "Unit 1",
-                    url: "http://dsfdsf",
+                    url: "https://drive.google.com/file/d/1DCeYx9hfl4qjy33CdudSbWMxjTJGnv-f/view?usp=sharing",
                 },
                 {
                     name: "Unit 2",
-                    url: "http://dsfdsf",
+                    url: "https://drive.google.com/file/d/1DCeYx9hfl4qjy33CdudSbWMxjTJGnv-f/view?usp=sharing",
                 },
                 {
                     name: "Unit 3",
-                    url: "http://dsfdsf",
+                    url: "https://drive.google.com/file/d/1DCeYx9hfl4qjy33CdudSbWMxjTJGnv-f/view?usp=sharing",
                 },
             ],
         },
@@ -146,34 +146,34 @@ export const data = {
             OS: [
                 {
                     name: "Unit 1",
-                    url: "http://dsfdsf",
+                    url: "https://drive.google.com/file/d/1DCeYx9hfl4qjy33CdudSbWMxjTJGnv-f/view?usp=sharing",
                 },
                 {
                     name: "Unit 2",
-                    url: "http://dsfdsf",
+                    url: "https://drive.google.com/file/d/1DCeYx9hfl4qjy33CdudSbWMxjTJGnv-f/view?usp=sharing",
                 },
                 {
                     name: "Unit 3",
-                    url: "http://dsfdsf",
+                    url: "https://drive.google.com/file/d/1DCeYx9hfl4qjy33CdudSbWMxjTJGnv-f/view?usp=sharing",
                 },
                 {
                     name: "Unit 4",
-                    url: "http://dsfdsf",
+                    url: "https://drive.google.com/file/d/1DCeYx9hfl4qjy33CdudSbWMxjTJGnv-f/view?usp=sharing",
                 },
             ],
 
             Netwokring: [
                 {
                     name: "Unit 1",
-                    url: "http://dsfdsf",
+                    url: "https://drive.google.com/file/d/1DCeYx9hfl4qjy33CdudSbWMxjTJGnv-f/view?usp=sharing",
                 },
                 {
                     name: "Unit 2",
-                    url: "http://dsfdsf",
+                    url: "https://drive.google.com/file/d/1DCeYx9hfl4qjy33CdudSbWMxjTJGnv-f/view?usp=sharing",
                 },
                 {
                     name: "Unit 3",
-                    url: "http://dsfdsf",
+                    url: "https://drive.google.com/file/d/1DCeYx9hfl4qjy33CdudSbWMxjTJGnv-f/view?usp=sharing",
                 },
             ],
         },

@@ -1,22 +1,22 @@
 import { Route, Routes } from "react-router-dom";
 import React from "react";
 import Sidebar from "./components/Sidebar";
-import SemesterList from "./components/SemesterList";
+import CourseList from "./components/CourseList";
+import SemisterList from "./components/SemisterList";
+import Homepage from "./components/Homepage";
 
 function App() {
     return (
         <React.Suspense fallback={<div>Loading...</div>}>
-            <Sidebar />
-            <Routes>
-                <Route
-                    index
-                    element={<div>NotesVerse</div>}
-                />
-                <Route
-                    path='/course/:id'
-                    element={<SemesterList />}
-                />
-            </Routes>
+            <div className='flex app'>
+                <Sidebar />
+                <div className='w-full h-screen overflow-y-scroll'>
+                    <Routes>
+                        <Route index element={<Homepage />} />
+                        <Route path='course/:id' element={<CourseList />}></Route>
+                    </Routes>
+                </div>
+            </div>
         </React.Suspense>
     );
 }
