@@ -6,8 +6,6 @@ const CourseList = ({}) => {
     let { id } = useParams();
     const courseData = data[id];
 
-    console.log(courseData);
-
     return (
         <div>
             <div class='grid gap-4 max-w-xl mx-auto mt-8'>
@@ -19,7 +17,7 @@ const CourseList = ({}) => {
                                 <div class='py-5'>
                                     <details class='group'>
                                         <summary class='flex justify-between items-center font-medium cursor-pointer list-none'>
-                                            <span>{subject}</span>
+                                            <span>{subject.split("_").join(" ")}</span>
                                             <span class='transition group-open:rotate-180'>
                                                 <svg
                                                     fill='none'

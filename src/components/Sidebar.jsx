@@ -11,7 +11,7 @@ const Sidebar = ({}) => {
     const [search, setSearch] = useState();
 
     return (
-        <div className='p-4  min-h-screen h-screen min-w-[280px] max-w-[300px] '>
+        <div className='p-4  min-h-screen h-screen min-w-[300px] max-w-[300px] '>
             <div className='flex flex-col h-full w-full p-2 border-2 border-[#cde0f0] bg-white text-black rounded-lg'>
                 <div className='logo-container flex items-center justify-center gap-4 w-full rounded-md py-3 px-2 bg-gradient-to-r from-[#4dd79d] to-blue-500'>
                     <FiCodesandbox className='h-10 w-10 rounded-md p-1 bg-gradient-to-bl from-blue-900 via-blue-400 to-blue-900' />
@@ -24,13 +24,18 @@ const Sidebar = ({}) => {
                 <div className='tabs flex flex-col gap-2 mt-4 pr-1 overflow-y-scroll h-full scrollbar'>
                     {[
                         {
-                            title: "Computer Science",
-                            link: "course/cs",
-                            Icon: <DashboardIcon className='ml-2 h-5' />,
+                            title: "Civil Engineering",
+                            link: "course/civil_engineering",
+                            Icon: <CropIcon className='ml-2 h-5' />,
                         },
                         {
-                            title: "DBMS",
-                            link: "course/dbms",
+                            title: "Electronic Engineering",
+                            link: "course/electronic_engineering",
+                            Icon: <CropIcon className='ml-2 h-5' />,
+                        },
+                        {
+                            title: "Mechanical Engineering",
+                            link: "course/mechanical_engineering",
                             Icon: <CropIcon className='ml-2 h-5' />,
                         },
                     ]
